@@ -1,6 +1,9 @@
 Kafka-node
 ==========
 
+[译文](http://blog.csdn.net/liangdong2014/article/details/53230072)
+
+
 [![Build Status](https://travis-ci.org/SOHU-Co/kafka-node.svg?branch=master)](https://travis-ci.org/SOHU-Co/kafka-node)
 [![Coverage Status](https://coveralls.io/repos/github/SOHU-Co/kafka-node/badge.svg?branch=master)](https://coveralls.io/github/SOHU-Co/kafka-node?branch=master)
 
